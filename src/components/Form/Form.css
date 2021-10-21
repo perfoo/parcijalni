@@ -1,0 +1,21 @@
+form {
+    margin: 60px;
+    background-color: darkslategray;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+label {
+    padding: 4px;
+    margin: 4px;
+}
+
+input {
+    margin: 4px;
+}
+
+button {
+    font-weight: 600;
+    background-color: darkgray;
+    border-radius: 10px;
+}
